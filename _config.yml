@@ -1,0 +1,23 @@
+name: Maarten
+favicon: null
+layout_spectrum: 0.7689730126876384
+typography_spectrum: 0.15792388073168695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2745357174426317
+  lightness: 0.8351789286825806
+  saturation: 0.6348330629989505
+  rhythmicContrast: 0.4324848970863968
+purpose: []
